@@ -1,100 +1,103 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║          BRYAN JOSUÉ CÁRCAMO MATUTE — GITHUB PROFILE            ║ -->
-<!-- ║          BWPentesting — Enterprise Cybersecurity                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!--   BRYAN JOSUÉ CÁRCAMO MATUTE  ·  GITHUB PROFILE  ·  BWPentesting                  -->
+<!--   Principal Cybersecurity Architect · Systems Architect · Senior Developer          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a1628,100:0d1117&height=280&section=header&text=Bryan%20Josu%C3%A9%20C%C3%A1rcamo&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Cárcamo%20Matute&descFontSize=0&stroke=00E5FF&strokeWidth=2" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0f1a,60:001a33,100:000d1a&height=320&section=header&text=Bryan%20Josu%C3%A9%20C%C3%A1rcamo%20Matute&fontSize=46&fontColor=00E5FF&animation=fadeIn&fontAlignY=40&stroke=00E5FF&strokeWidth=1.5&desc=Principal%20Cybersecurity%20Architect%20%7C%20Systems%20Architect%20%7C%20Founder%20of%20BWPentesting&descSize=17&descAlignY=62&descFontColor=7ecfff" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bryan-max95/pentesting/main/public/images/bwpentesting0.png" width="120" alt="BWPentesting Logo"/>
+  <a href="https://bwpentesting.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/Bryan-max95/pentesting/main/public/images/bwpentesting0.png" width="130" alt="BWPentesting Logo"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=700&color=00E5FF&background=00000000&center=true&vCenter=true&width=750&height=45&lines=%5BINIT%5D+Principal+Cybersecurity+Architect+%2F%2F+10%2B+yrs;%5BRUN%5D++Building+Next-Gen+EDR%2FXDR+Platform+%40+BWP;%5BSCAN%5D+Red+Team+%7C+Blue+Team+%7C+Zero+Trust+Expert;%5BDEPLOY%5D+AWS+%7C+Azure+%7C+Linux+%7C+Hybrid+Infra;%5BLOAD%5D+C%23+%7C+C%2B%2B+%7C+Python+%7C+React+%7C+Flutter;%5BSECURE%5D+Founder+%40+BWPentesting+%F0%9F%9B%A1%EF%B8%8F+Honduras" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-```
-██████╗ ██╗    ██╗██████╗ ███████╗███╗   ██╗████████╗███████╗███████╗████████╗██╗███╗   ██╗ ██████╗
-██╔══██╗██║    ██║██╔══██╗██╔════╝████╗  ██║╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██║████╗  ██║██╔════╝
-██████╔╝██║ █╗ ██║██████╔╝█████╗  ██╔██╗ ██║   ██║   █████╗  ███████╗   ██║   ██║██╔██╗ ██║██║  ███╗
-██╔══██╗██║███╗██║██╔═══╝ ██╔══╝  ██║╚██╗██║   ██║   ██╔══╝  ╚════██║   ██║   ██║██║╚██╗██║██║   ██║
-██████╔╝╚███╔███╔╝██║     ███████╗██║ ╚████║   ██║   ███████╗███████║   ██║   ██║██║ ╚████║╚██████╔╝
-╚═════╝  ╚══╝╚══╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝
-```
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00E5FF&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%5BINIT%5D+Cybersecurity+Architect+%2F%2F+10%2B+Years;%5BRUN%5D+Building+Next-Gen+EDR%2FXDR+Platform;%5BSCAN%5D+Red+Team+%7C+Blue+Team+%7C+Zero+Trust;%5BDEPLOY%5D+AWS+%7C+Azure+%7C+Linux+Expert;%5BLOAD%5D+Founder+%40+BWPentesting+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+[![Founder](https://img.shields.io/badge/%E2%9A%A1%20FOUNDER-BWPentesting-0d1117?style=for-the-badge&labelColor=00E5FF&color=060d1a&logoColor=white)](https://bwpentesting.com)&nbsp;
+[![Experience](https://img.shields.io/badge/%F0%9F%95%90%2010%2B%20A%C3%B1os-Enterprise%20IT-060d1a?style=for-the-badge&labelColor=0a1e36&color=060d1a)](https://bwpentesting.com)&nbsp;
+[![Architect](https://img.shields.io/badge/%F0%9F%8F%97%EF%B8%8F%20ARQUITECTO-Sistemas%20%26%20Seguridad-060d1a?style=for-the-badge&labelColor=0a1e36&color=060d1a)](https://bwpentesting.com)&nbsp;
+[![EDR](https://img.shields.io/badge/%F0%9F%94%A5%20BUILDING-EDR%2FXDR%20Platform-060d1a?style=for-the-badge&labelColor=0a1e36&color=060d1a)](https://bwpentesting.com)&nbsp;
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Roat%C3%A1n-Honduras-060d1a?style=for-the-badge&labelColor=0a1e36&color=060d1a)](https://bwpentesting.com)
 
 </div>
 
 <br/>
-
-<div align="center">
-
-[![Founder](https://img.shields.io/badge/⚡_FOUNDER-BWPentesting-000000?style=for-the-badge&labelColor=00E5FF&color=0d1117)](https://bwpentesting.com)
-[![Experience](https://img.shields.io/badge/🕐_EXPERIENCIA-10%2B_Años-0d1117?style=for-the-badge&labelColor=0a1628&color=0d1117)](https://bwpentesting.com)
-[![Architecture](https://img.shields.io/badge/🏗️_ARQUITECTO-Sistemas_%26_Seguridad-0d1117?style=for-the-badge&labelColor=0a1628&color=0d1117)](https://bwpentesting.com)
-[![Location](https://img.shields.io/badge/📍_UBICACIÓN-Roatán%2C_Honduras-0d1117?style=for-the-badge&labelColor=0a1628&color=0d1117)](https://bwpentesting.com)
-
-</div>
 
 ---
 
 <div align="center">
 
-## `> whoami`
+## `[ SYSTEM IDENTIFICATION ]`
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ```yaml
-nombre:       Bryan Josué Cárcamo Matute
-titulo:       Arquitecto de Ciberseguridad &
-              Arquitecto de Sistemas
-empresa:      BWPentesting (Fundador)
-experiencia:  10+ años
-ubicacion:    Roatán, Islas de la Bahía, HN
-disponible:   Consultoría & Proyectos Enterprise
+# ─────────────────────────────────────────
+#  IDENTITY RECORD — BWP-BCMT-001
+# ─────────────────────────────────────────
 
-especialidades:
-  - Cybersecurity Architecture
-  - Secure Software Engineering
-  - Cloud Security (AWS / Azure)
-  - Linux Infrastructure Expert
-  - EDR/XDR Platform Development
-  - Red Team / Blue Team
-  - Zero Trust Architecture
-  - DevSecOps
+profile:
+  name:         Bryan Josué Cárcamo Matute
+  role:
+    - Principal Cybersecurity Architect
+    - Systems & Software Architect
+    - Secure Software Engineer
+    - Red Team / Blue Team Expert
+  company:      BWPentesting  [FOUNDER]
+  experience:   10+ years
+  location:     Roatán, Bay Islands, Honduras
+  contact:      info@bwpentesting.com
+  web:          https://bwpentesting.com
 
-estado_actual: [ BUILDING EDR/XDR PLATFORM ]
+current_mission:
+  status:       ACTIVE
+  project:      BWP Enterprise EDR/XDR Platform
+  phase:        Development
+  goal:         >
+    Build enterprise-grade cybersecurity
+    platform comparable to CrowdStrike,
+    Microsoft Defender & SentinelOne
+
+clearance_level: PRINCIPAL_ARCHITECT
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
 ```
-╔══════════════════════════════════╗
-║   BWP Security Stack  v2.0       ║
-╠══════════════════════════════════╣
-║ [■■■■■■■■■■] Pentesting    100%  ║
-║ [■■■■■■■■■□] Cloud Sec      90%  ║
-║ [■■■■■■■■■■] Linux Admin   100%  ║
-║ [■■■■■■■■■□] AWS/Azure      95%  ║
-║ [■■■■■■■■■■] Sec Software  100%  ║
-║ [■■■■■■■■□□] EDR/XDR Dev    85%  ║
-║ [■■■■■■■■■□] Zero Trust     90%  ║
-║ [■■■■■■■■■■] Reverse Eng   100%  ║
-╚══════════════════════════════════╝
+╔═══════════════════════════════════════╗
+║   BWP SECURITY STACK — v2.5           ║
+║   Threat Assessment: ACTIVE           ║
+╠═══════════════════════════════════════╣
+║                                       ║
+║  PENTESTING       ████████████  100%  ║
+║  LINUX ADMIN      ████████████  100%  ║
+║  SEC SOFTWARE     ████████████  100%  ║
+║  REVERSE ENG.     ████████████  100%  ║
+║  AWS / AZURE      ███████████░   95%  ║
+║  CLOUD SECURITY   ██████████░░   90%  ║
+║  ZERO TRUST       ██████████░░   90%  ║
+║  EDR/XDR DEV      █████████░░░   85%  ║
+║                                       ║
+╠═══════════════════════════════════════╣
+║  THREAT LEVEL:  ████████████  EXPERT  ║
+╚═══════════════════════════════════════╝
 ```
 
 </td>
@@ -103,423 +106,519 @@ estado_actual: [ BUILDING EDR/XDR PLATFORM ]
 
 ---
 
-## 🏢 BWPentesting — Mi Empresa
-
 <div align="center">
 
-> **BWPentesting** es una empresa de ciberseguridad empresarial fundada y dirigida por Bryan Josué Cárcamo Matute, enfocada en construir soluciones de protección digital de alto nivel para empresas que exigen lo mejor.
+## `[ BWPentesting — Enterprise Cybersecurity Company ]`
 
 </div>
 
+<div align="center">
+
+> 🛡️ **BWPentesting** es mi empresa de ciberseguridad empresarial — construyendo el futuro de la seguridad digital desde Honduras para el mundo.
+
+</div>
+
+<br/>
+
+<div align="center">
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-**🔍 Pentesting**
-<br/>
-Evaluación avanzada de vulnerabilidades web, redes y servidores
-
-</td>
-<td align="center" width="25%">
-
-**🛡️ Endpoint Security**
-<br/>
-Protección y monitoreo de endpoints con tecnología EDR/XDR
-
-</td>
-<td align="center" width="25%">
-
-**☁️ Cloud Security**
-<br/>
-Arquitecturas seguras en AWS, Azure e infraestructura híbrida
+```
+  ╔═══════╗
+  ║ 🔍    ║
+  ║ PENT  ║
+  ║ TEST  ║
+  ╚═══════╝
+```
+**Pentesting**
+web · redes · servers
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-**🔬 SOC & Monitoreo**
-<br/>
-Centro de operaciones de seguridad con respuesta ante incidentes
+```
+  ╔═══════╗
+  ║ 🛡️    ║
+  ║ EDR   ║
+  ║ /XDR  ║
+  ╚═══════╝
+```
+**Endpoint Security**
+Detección & respuesta
+
+</td>
+<td align="center" width="20%">
+
+```
+  ╔═══════╗
+  ║ ☁️    ║
+  ║ CLOUD ║
+  ║ SEC   ║
+  ╚═══════╝
+```
+**Cloud Security**
+AWS · Azure · Hybrid
+
+</td>
+<td align="center" width="20%">
+
+```
+  ╔═══════╗
+  ║ 📊    ║
+  ║ SOC   ║
+  ║ /SIEM ║
+  ╚═══════╝
+```
+**SOC & SIEM**
+Monitoreo 24/7
+
+</td>
+<td align="center" width="20%">
+
+```
+  ╔═══════╗
+  ║ 💻    ║
+  ║ SEC   ║
+  ║ DEV   ║
+  ╚═══════╝
+```
+**Secure Dev**
+Software · APIs
 
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 
-[![Web](https://img.shields.io/badge/🌐_WEB-bwpentesting.com-00E5FF?style=for-the-badge&labelColor=0d1117)](https://bwpentesting.com)
-[![Email](https://img.shields.io/badge/📧_EMAIL-info@bwpentesting.com-00E5FF?style=for-the-badge&labelColor=0d1117)](mailto:info@bwpentesting.com)
-[![Phone](https://img.shields.io/badge/📱_CONTACTO-+504_88285822-00E5FF?style=for-the-badge&labelColor=0d1117)](tel:+50488285822)
+[![Website](https://img.shields.io/badge/🌐_bwpentesting.com-Visitar-00E5FF?style=for-the-badge&labelColor=060d1a&color=060d1a)](https://bwpentesting.com)&nbsp;
+[![Email](https://img.shields.io/badge/📧_Email-info@bwpentesting.com-00E5FF?style=for-the-badge&labelColor=060d1a&color=060d1a)](mailto:info@bwpentesting.com)&nbsp;
+[![Phone](https://img.shields.io/badge/📱_+504_88285822-Contactar-00E5FF?style=for-the-badge&labelColor=060d1a&color=060d1a)](tel:+50488285822)
 
 </div>
 
 ---
 
-## 🔐 Especialidades en Ciberseguridad
+<div align="center">
+
+## `[ PERFIL EJECUTIVO ]`
+
+</div>
+
+Soy **Ingeniero en Computación, Arquitecto de Sistemas y Experto en Ciberseguridad** con más de **10 años de experiencia** en entornos enterprise. Mi trabajo combina arquitectura de software, seguridad ofensiva y defensiva, cloud computing, Linux avanzado y el desarrollo de plataformas de ciberseguridad de alto nivel.
+
+Fundé **BWPentesting** con la visión de construir soluciones de seguridad comparables a CrowdStrike y Microsoft Defender — diseñadas, desarrolladas y operadas desde Honduras para el mercado internacional.
+
+```
+DOMINIO TÉCNICO COMPLETO:
+  Security     →  Red Team · Blue Team · DFIR · Threat Intel · Zero Trust · SOC
+  Cloud        →  AWS · Azure · Google Cloud · Hybrid Infra · Cloud Security
+  Linux        →  Kali · Arch · Ubuntu · Debian · Hardening · Bash Expert
+  Development  →  C# · C++ · Python · JS/TS · React · Flutter · Node.js · .NET
+  Architecture →  EDR/XDR · Microservices · APIs · DevSecOps · CI/CD
+  Reversing    →  Ghidra · IDA · x64dbg · WinDbg · Frida · Malware Analysis
+```
+
+---
+
+<div align="center">
+
+## `[ ESPECIALIDADES EN CIBERSEGURIDAD ]`
+
+</div>
 
 <details>
-<summary><b>⚔️ Ofensiva — Red Team & Pentesting</b></summary>
-
+<summary>
+<b>⚔️ &nbsp; OFENSIVA — Red Team, Pentesting & Exploit Development</b>
+</summary>
 <br/>
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  RED TEAM CAPABILITIES                                           │
-├──────────────────────────┬──────────────────────────────────────┤
-│  Web Application         │  SQL Injection, XSS, CSRF, IDOR,     │
-│  Penetration Testing     │  SSRF, Auth Bypass, API Exploits      │
-├──────────────────────────┼──────────────────────────────────────┤
-│  Network Penetration     │  Nmap, Nessus, Internal Pivoting,     │
-│  Testing                 │  Lateral Movement, VLAN Hopping       │
-├──────────────────────────┼──────────────────────────────────────┤
-│  Social Engineering      │  Phishing, Vishing, Pretexting,       │
-│                          │  Physical Security Assessment          │
-├──────────────────────────┼──────────────────────────────────────┤
-│  Malware Development     │  Custom Payloads, Evasion Techniques, │
-│  & Analysis              │  Reverse Engineering, Ghidra/IDA      │
-└──────────────────────────┴──────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║  RED TEAM OPERATIONS MATRIX                                              ║
+╠══════════════════════════╦═══════════════════════════════════════════════╣
+║  Web App Pentesting      ║  SQLi · XSS · CSRF · IDOR · SSRF             ║
+║                          ║  Auth Bypass · JWT Attacks · API Exploits     ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Network Pentesting      ║  Nmap · Lateral Movement · VLAN Hopping      ║
+║                          ║  Internal Pivoting · AD Attacks · Pass-Hash   ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Malware Dev & Analysis  ║  Custom Payloads · AV/EDR Evasion Techniques ║
+║                          ║  Reverse Engineering · Ghidra · IDA Free      ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Social Engineering      ║  Phishing Campaigns · Vishing · Pretexting   ║
+║                          ║  Physical Security Assessment                  ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Exploit Development     ║  BoF · ROP Chains · Shellcode · CVE Analysis ║
+║                          ║  0-Day Research · Memory Corruption            ║
+╚══════════════════════════╩═══════════════════════════════════════════════╝
+```
+
+**Tools:** Kali Linux · Metasploit · Burp Suite Pro · OWASP ZAP · Nmap · Hydra · Hashcat · Mimikatz · CrackMapExec
+
+</details>
+
+<details>
+<summary>
+<b>🛡️ &nbsp; DEFENSIVA — Blue Team, SOC, DFIR & Threat Hunting</b>
+</summary>
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  BLUE TEAM OPERATIONS MATRIX                                             ║
+╠══════════════════════════╦═══════════════════════════════════════════════╣
+║  SIEM & Monitoring       ║  Splunk · ELK Stack · Azure Sentinel          ║
+║                          ║  Security Onion · Custom Dashboards            ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Incident Response       ║  DFIR Workflows · Memory Forensics            ║
+║  & Forensics             ║  IOC Analysis · Timeline Reconstruction        ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Threat Intelligence     ║  MITRE ATT&CK · CVE Tracking · IOC/IOA       ║
+║                          ║  Threat Hunting · Dark Web Monitoring          ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Endpoint Security       ║  EDR Deployment · Behavioral Analysis         ║
+║                          ║  AV/EDR Tuning · Telemetry Collection          ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Hardening               ║  CIS Benchmarks · AppArmor · SELinux          ║
+║                          ║  Windows Hardening · Network Segmentation       ║
+╚══════════════════════════╩═══════════════════════════════════════════════╝
 ```
 
 </details>
 
 <details>
-<summary><b>🛡️ Defensiva — Blue Team & SOC</b></summary>
-
+<summary>
+<b>🏗️ &nbsp; ARQUITECTURA — Zero Trust, IAM & Enterprise Security Design</b>
+</summary>
 <br/>
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  BLUE TEAM CAPABILITIES                                          │
-├──────────────────────────┬──────────────────────────────────────┤
-│  SIEM & Monitoring       │  Splunk, ELK Stack, Security Onion,  │
-│                          │  Azure Sentinel, Log Analysis         │
-├──────────────────────────┼──────────────────────────────────────┤
-│  Incident Response       │  DFIR, Memory Forensics, IOC          │
-│  & Forensics             │  Analysis, Timeline Reconstruction    │
-├──────────────────────────┼──────────────────────────────────────┤
-│  Threat Intelligence     │  CVE Tracking, IOC/IOA, Threat        │
-│                          │  Hunting, MITRE ATT&CK Framework      │
-├──────────────────────────┼──────────────────────────────────────┤
-│  Hardening               │  CIS Benchmarks, AppArmor, SELinux,   │
-│                          │  Windows Hardening, Network Segm.      │
-└──────────────────────────┴──────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║  SECURITY ARCHITECTURE MATRIX                                            ║
+╠══════════════════════════╦═══════════════════════════════════════════════╣
+║  Zero Trust              ║  Identity Verification · Micro-Segmentation   ║
+║  Architecture            ║  Least Privilege · Continuous Verification     ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  IAM & Identity          ║  Azure AD / Entra ID · AWS IAM · Okta         ║
+║                          ║  OAuth2 · MFA · SSO · PAM · RBAC              ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Cloud Security          ║  CSPM · CWPP · Azure Defender · Key Vault     ║
+║                          ║  AWS GuardDuty · Cloud SIEM · Security Center  ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  EDR/XDR Design          ║  Endpoint Agent Architecture · Telemetry       ║
+║                          ║  Behavioral Detection · Correlation Engines     ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  DevSecOps               ║  SAST/DAST · Secure CI/CD · Container Sec.    ║
+║                          ║  Infrastructure as Code · Policy as Code       ║
+╚══════════════════════════╩═══════════════════════════════════════════════╝
 ```
 
 </details>
 
 <details>
-<summary><b>🏗️ Arquitectura — Zero Trust & Enterprise</b></summary>
-
+<summary>
+<b>🔬 &nbsp; INGENIERÍA INVERSA & ANÁLISIS DE MALWARE</b>
+</summary>
 <br/>
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  SECURITY ARCHITECTURE                                           │
-├──────────────────────────┬──────────────────────────────────────┤
-│  Zero Trust              │  Identity Verification, Micro-        │
-│  Architecture            │  Segmentation, Least Privilege        │
-├──────────────────────────┼──────────────────────────────────────┤
-│  IAM                     │  Azure AD / Entra ID, AWS IAM,        │
-│                          │  OAuth2, MFA, SSO, PAM                │
-├──────────────────────────┼──────────────────────────────────────┤
-│  Endpoint Security       │  EDR/XDR Design, AV Bypass,           │
-│                          │  Behavioral Detection, Telemetry       │
-├──────────────────────────┼──────────────────────────────────────┤
-│  Cloud Security          │  CSPM, CWPP, Cloud SIEM, Security     │
-│                          │  Center, Defender, Key Vault           │
-└──────────────────────────┴──────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║  REVERSE ENGINEERING & MALWARE ANALYSIS                                  ║
+╠══════════════════════════╦═══════════════════════════════════════════════╣
+║  Static Analysis         ║  Ghidra · IDA Free · PE/ELF Inspection        ║
+║                          ║  String Analysis · Import Table Review         ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Dynamic Analysis        ║  x64dbg · WinDbg · Frida · FLOSS               ║
+║                          ║  Sandbox Environments · API Monitoring          ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Malware Categories      ║  Ransomware · RATs · Rootkits · Stealers       ║
+║                          ║  Botnets · Loaders · Droppers · Backdoors       ║
+╠══════════════════════════╬═══════════════════════════════════════════════╣
+║  Evasion Techniques      ║  AMSI Bypass · ETW Patching · Obfuscation      ║
+║                          ║  Process Injection · DLL Hijacking              ║
+╚══════════════════════════╩═══════════════════════════════════════════════╝
 ```
 
 </details>
 
 ---
 
-## ☁️ Cloud & Infraestructura
+<div align="center">
+
+## `[ CLOUD & INFRAESTRUCTURA ]`
+
+</div>
 
 <div align="center">
 
-| Plataforma | Servicios | Nivel |
+| | Plataforma | Servicios Clave | Nivel |
+|:---:|:---:|:---|:---:|
+| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | **Microsoft Azure** | Sentinel · Defender for Endpoint · Entra ID · Key Vault · AKS · DevOps · Monitor | **`Expert`** |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) | **Amazon AWS** | EC2 · S3 · IAM · CloudWatch · Lambda · VPC · GuardDuty · Security Hub | **`Advanced`** |
+| ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) | **Google Cloud** | Compute Engine · Cloud IAM · Firestore · Security Command Center | **`Intermediate`** |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | **Linux Systems** | Kali · Arch · Ubuntu · Debian · RHEL · Hardening · Server Admin · Bash | **`Expert`** |
+| ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) | **VMware** | ESXi · vSphere · vCenter · Virtualization · Hybrid Infrastructure | **`Advanced`** |
+
+</div>
+
+---
+
+<div align="center">
+
+## `[ LENGUAJES DE PROGRAMACIÓN ]`
+
+</div>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,javascript,typescript,dart,bash,powershell&theme=dark&perline=8"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| Lenguaje | Uso Principal en BWP | Nivel |
 |:---:|:---|:---:|
-| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | Sentinel · Defender for Endpoint · Entra ID · Key Vault · AKS · DevOps | `Expert` |
-| ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | EC2 · S3 · IAM · CloudWatch · Lambda · VPC · GuardDuty | `Advanced` |
-| ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Compute Engine · Cloud IAM · Firestore · Security Command | `Intermediate` |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Kali · Arch · Ubuntu · Debian · RHEL · Hardening · Bash | `Expert` |
-| ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) | ESXi · vSphere · vCenter · Virtualización Enterprise | `Advanced` |
+| ![C#](https://img.shields.io/badge/C%23-0a1628?style=flat&logo=csharp&logoColor=00E5FF) | Endpoint Agent · .NET Enterprise APIs · Backend Seguro · Agentes EDR | **`Expert`** |
+| ![C++](https://img.shields.io/badge/C%2B%2B-0a1628?style=flat&logo=cplusplus&logoColor=00E5FF) | Herramientas bajo nivel · Kernel drivers · Malware Analysis · Payloads | **`Advanced`** |
+| ![Python](https://img.shields.io/badge/Python-0a1628?style=flat&logo=python&logoColor=00E5FF) | Automatización · Scripts de seguridad · Herramientas de pentesting · ML | **`Expert`** |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-0a1628?style=flat&logo=javascript&logoColor=00E5FF) | Dashboards · Frontend enterprise · Node.js APIs · SOC UI | **`Expert`** |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-0a1628?style=flat&logo=typescript&logoColor=00E5FF) | Plataformas enterprise tipadas · APIs robustas · Next.js apps | **`Expert`** |
+| ![Dart](https://img.shields.io/badge/Dart/Flutter-0a1628?style=flat&logo=flutter&logoColor=00E5FF) | Apps móviles enterprise · UI cross-platform · BWP Mobile App | **`Advanced`** |
+| ![Bash](https://img.shields.io/badge/Bash-0a1628?style=flat&logo=gnubash&logoColor=00E5FF) | Linux admin · Hardening · Automatización · Pentest scripts | **`Expert`** |
+| ![PowerShell](https://img.shields.io/badge/PowerShell-0a1628?style=flat&logo=powershell&logoColor=00E5FF) | Windows admin · Automation · Post-exploitation · Active Directory | **`Advanced`** |
 
 </div>
 
 ---
 
-## 💻 Lenguajes de Programación
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,javascript,typescript,bash,dart,powershell&theme=dark&perline=8" />
+## `[ FRAMEWORKS, STACK & TECNOLOGÍAS ]`
 
 </div>
 
 <div align="center">
-
-| Lenguaje | Uso Principal | Nivel |
-|:---:|:---|:---:|
-| `C#` | .NET Enterprise Apps · Agentes de Seguridad · APIs | ████████░░ `Expert` |
-| `C++` | Herramientas de bajo nivel · Malware Analysis · EDR | ███████░░░ `Advanced` |
-| `Python` | Automatización · Scripts de Seguridad · IA/ML | ████████░░ `Expert` |
-| `JavaScript` | Frontend · Dashboards · Node.js APIs | ████████░░ `Expert` |
-| `TypeScript` | Plataformas Enterprise · APIs Tipadas | ████████░░ `Expert` |
-| `Bash` | Linux Admin · Hardening · Automatización | ████████░░ `Expert` |
-| `Dart/Flutter` | Apps Móviles · UI Enterprise | ██████░░░░ `Advanced` |
-| `PowerShell` | Windows Admin · Automatización · Seguridad | ███████░░░ `Advanced` |
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,flutter,vue,nuxt,tailwind&theme=dark&perline=8"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,github,git,postgres,mongodb,redis,firebase,linux&theme=dark&perline=8"/>
 </div>
 
----
-
-## ⚙️ Frameworks, Herramientas & Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,flutter,vue,nuxt,tailwind&theme=dark&perline=8" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,github,git,postgres,mongodb,redis,linux,kali&theme=dark&perline=8" />
-
-</div>
-
----
-
-## 🧰 Arsenal de Ciberseguridad
 
 <div align="center">
 
-**Pentesting & Ofensiva**
+**Bases de Datos:** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=00E5FF)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0a1628?style=flat-square&logo=microsoftsqlserver&logoColor=00E5FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a1628?style=flat-square&logo=mongodb&logoColor=00E5FF)
+![Redis](https://img.shields.io/badge/Redis-0a1628?style=flat-square&logo=redis&logoColor=00E5FF)
+![Firebase](https://img.shields.io/badge/Firebase-0a1628?style=flat-square&logo=firebase&logoColor=00E5FF)
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**Reverse Engineering & Malware**
-
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white)
-![IDA](https://img.shields.io/badge/IDA_Pro-4A4A4A?style=for-the-badge&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-1C1C1E?style=for-the-badge&logoColor=white)
-![WinDbg](https://img.shields.io/badge/WinDbg-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-FFCA28?style=for-the-badge&logoColor=black)
-
-**SOC & Monitoreo**
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![Security Onion](https://img.shields.io/badge/Security_Onion-3EAF7C?style=for-the-badge&logoColor=white)
-![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**DevSecOps:** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-0a1628?style=flat-square&logo=docker&logoColor=00E5FF)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-0a1628?style=flat-square&logo=githubactions&logoColor=00E5FF)
+![Terraform](https://img.shields.io/badge/Terraform-0a1628?style=flat-square&logo=terraform&logoColor=00E5FF)
 
 </div>
 
 ---
 
-## 🚀 Proyecto Principal: BWP Enterprise EDR/XDR
+<div align="center">
+
+## `[ ARSENAL DE CIBERSEGURIDAD ]`
+
+</div>
+
+<div align="center">
+
+**— Pentesting & Ofensiva —**
+
+![Kali](https://img.shields.io/badge/Kali_Linux-060d1a?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
+![Metasploit](https://img.shields.io/badge/Metasploit-060d1a?style=for-the-badge&logoColor=00E5FF)
+![Burp_Suite](https://img.shields.io/badge/Burp_Suite_Pro-060d1a?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+![ZAP](https://img.shields.io/badge/OWASP_ZAP-060d1a?style=for-the-badge&logo=owasp&logoColor=00E5FF)
+![Nmap](https://img.shields.io/badge/Nmap-060d1a?style=for-the-badge&logoColor=00E5FF)
+![Wireshark](https://img.shields.io/badge/Wireshark-060d1a?style=for-the-badge&logo=wireshark&logoColor=00E5FF)
+![Shodan](https://img.shields.io/badge/Shodan-060d1a?style=for-the-badge&logoColor=00E5FF)
+![Hydra](https://img.shields.io/badge/Hydra-060d1a?style=for-the-badge&logoColor=00E5FF)
+
+**— Reverse Engineering & Malware —**
+
+![Ghidra](https://img.shields.io/badge/Ghidra-060d1a?style=for-the-badge&logoColor=FF4444)
+![IDA_Pro](https://img.shields.io/badge/IDA_Free-060d1a?style=for-the-badge&logoColor=00E5FF)
+![x64dbg](https://img.shields.io/badge/x64dbg-060d1a?style=for-the-badge&logoColor=00E5FF)
+![WinDbg](https://img.shields.io/badge/WinDbg-060d1a?style=for-the-badge&logo=windows&logoColor=00E5FF)
+![Frida](https://img.shields.io/badge/Frida-060d1a?style=for-the-badge&logoColor=FFCA28)
+
+**— SOC, SIEM & Monitoreo —**
+
+![Splunk](https://img.shields.io/badge/Splunk-060d1a?style=for-the-badge&logo=splunk&logoColor=00E5FF)
+![ELK](https://img.shields.io/badge/ELK_Stack-060d1a?style=for-the-badge&logo=elasticstack&logoColor=00E5FF)
+![Sentinel](https://img.shields.io/badge/Azure_Sentinel-060d1a?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![SecurityOnion](https://img.shields.io/badge/Security_Onion-060d1a?style=for-the-badge&logoColor=00E5FF)
+![Defender](https://img.shields.io/badge/MS_Defender-060d1a?style=for-the-badge&logo=microsoftdefender&logoColor=0078D4)
+
+</div>
+
+---
+
+<div align="center">
+
+## `[ PROYECTO PRINCIPAL — BWP ENTERPRISE EDR/XDR ]`
+
+</div>
 
 <div align="center">
 
 > *Construyendo la próxima generación de protección endpoint desde Honduras para el mundo.*
+> Diseñado para competir con **CrowdStrike Falcon · Microsoft Defender · SentinelOne · Bitdefender GravityZone**
 
 </div>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║           BWP ENTERPRISE SECURITY PLATFORM  v1.0 [IN DEV]           ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                       ║
-║  ┌─────────────────────────────────────────────────────────────┐    ║
-║  │                    BWP CLOUD BACKEND                         │    ║
-║  │  ┌─────────────┐  ┌──────────────┐  ┌─────────────────┐   │    ║
-║  │  │  Threat DB   │  │   Analytics  │  │  Zero Trust Eng │   │    ║
-║  │  │  & Intel     │  │   Engine     │  │  & Policy Mgr   │   │    ║
-║  │  └──────┬───────┘  └──────┬───────┘  └────────┬────────┘   │    ║
-║  │         └─────────────────┼──────────────────── ┘           │    ║
-║  │                    ┌──────┴──────┐                           │    ║
-║  │                    │  SOC API    │                           │    ║
-║  │                    └──────┬──────┘                           │    ║
-║  └───────────────────────────┼─────────────────────────────────┘    ║
-║                               │                                       ║
-║  ┌────────────────────────────▼────────────────────────────────┐    ║
-║  │                    BWP SOC DASHBOARD                         │    ║
-║  │   Real-time Alerts  │  Incident Response  │  Threat Maps    │    ║
-║  └────────────────────────────┬────────────────────────────────┘    ║
-║                               │                                       ║
-║       ┌───────────────────────┼────────────────────┐                ║
-║       │                       │                     │                ║
-║  ┌────▼────────┐  ┌───────────▼──────┐  ┌─────────▼───────┐       ║
-║  │  ENDPOINT   │  │   ENDPOINT       │  │   ENDPOINT       │       ║
-║  │  AGENT #1   │  │   AGENT #2       │  │   AGENT #N       │       ║
-║  │  Windows    │  │   Linux Server   │  │   ...            │       ║
-║  └─────────────┘  └──────────────────┘  └──────────────────┘       ║
-║                                                                       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  CAPACIDADES:                                                         ║
-║  ✅ Agente Endpoint (Windows/Linux)   ✅ Behavioral Analysis         ║
-║  ✅ Telemetry Collection              ✅ Ransomware Protection        ║
-║  ✅ Threat Detection Engine           ✅ Multi-Tenant Architecture    ║
-║  ✅ Rules & Correlation Engine        ✅ Threat Intelligence Feed     ║
-║  ✅ Real-time Monitoring              ✅ Automated IR Response        ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║         BWP ENTERPRISE SECURITY PLATFORM  ·  v1.0  [IN ACTIVE DEVELOPMENT]     ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                  ║
+║   ┌──────────────────────────────────────────────────────────────────────────┐  ║
+║   │                        BWP CLOUD INFRASTRUCTURE                          │  ║
+║   │                                                                           │  ║
+║   │  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐  ┌────────────┐  │  ║
+║   │  │  Threat Intel │  │  Correlation  │  │  Analytics   │  │  Zero      │  │  ║
+║   │  │  & CVE Feed  │  │  & Rules Eng  │  │  Engine/ML   │  │  Trust Eng │  │  ║
+║   │  └──────┬───────┘  └──────┬────────┘  └──────┬───────┘  └─────┬──────┘  │  ║
+║   │         └─────────────────┴──────────────────┴────────────────┘          │  ║
+║   │                              ┌──────────────────┐                          │  ║
+║   │                              │   CORE BWP API   │                          │  ║
+║   │                              └────────┬─────────┘                          │  ║
+║   └───────────────────────────────────────┼──────────────────────────────────┘  ║
+║                                           │                                      ║
+║   ┌───────────────────────────────────────▼──────────────────────────────────┐  ║
+║   │                         BWP SOC DASHBOARD                                │  ║
+║   │   Live Threat Map  │  Incident Queue  │  Asset Inventory  │  Reports     │  ║
+║   └───────────────────────────────────────┬──────────────────────────────────┘  ║
+║                                           │                                      ║
+║              ┌────────────────────────────┼──────────────────────┐              ║
+║              │                            │                        │              ║
+║   ┌──────────▼──────┐       ┌─────────────▼─────┐      ┌─────────▼──────────┐  ║
+║   │  BWP ENDPOINT   │       │  BWP ENDPOINT      │      │  BWP ENDPOINT      │  ║
+║   │  AGENT — Win    │       │  AGENT — Linux     │      │  AGENT — macOS     │  ║
+║   │ • Telemetry     │       │ • Telemetry        │      │ • Telemetry        │  ║
+║   │ • Behavioral    │       │ • Behavioral       │      │ • Behavioral       │  ║
+║   │ • Real-time Mon │       │ • Real-time Mon    │      │ • Real-time Mon    │  ║
+║   └─────────────────┘       └────────────────────┘      └────────────────────┘  ║
+║                                                                                  ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║  CAPACIDADES ACTUALES & PROYECTADAS:                                             ║
+║                                                                                  ║
+║  ✅ Agente Endpoint (Windows/Linux)    ✅ Behavioral Analysis Engine            ║
+║  ✅ Telemetry Collection & Processing  ✅ Ransomware Protection Module           ║
+║  ✅ Threat Detection Rules Engine      ✅ Multi-Tenant Cloud Architecture        ║
+║  ✅ Real-time Process Monitoring       ✅ Threat Intelligence Integration         ║
+║  ✅ Network Traffic Analysis           ✅ Automated Incident Response            ║
+║  ✅ SOC Dashboard (React/Next.js)      ✅ Zero Trust Policy Engine               ║
+║  ✅ MITRE ATT&CK Framework Mapping     ✅ Multi-org Management Console           ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-**Comparable a:**
+**Comparable a las mejores plataformas del mundo:**
 
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-inspired-E1191C?style=flat-square&logo=crowdstrike&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-inspired-0078D4?style=flat-square&logo=microsoftdefender&logoColor=white)
-![SentinelOne](https://img.shields.io/badge/SentinelOne-inspired-6700D7?style=flat-square&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike_Falcon-inspired-E1191C?style=flat-square&logo=crowdstrike&logoColor=white)&nbsp;
+![Microsoft Defender](https://img.shields.io/badge/MS_Defender-inspired-0078D4?style=flat-square&logo=microsoftdefender&logoColor=white)&nbsp;
+![SentinelOne](https://img.shields.io/badge/SentinelOne-inspired-6700D7?style=flat-square&logoColor=white)&nbsp;
+![Bitdefender](https://img.shields.io/badge/Bitdefender-inspired-ED1C24?style=flat-square&logoColor=white)&nbsp;
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-inspired-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ Experiencia Profesional
+<div align="center">
+
+## `[ EXPERIENCIA PROFESIONAL ]`
+
+</div>
 
 <details open>
-<summary><b>👨‍💻 Fundador & Arquitecto Principal — BWPentesting</b> | 2025 - Presente</summary>
-
+<summary><b>👨‍💻 &nbsp; Fundador & Arquitecto Principal — BWPentesting &nbsp;|&nbsp; 2025 - Presente</b></summary>
 <br/>
 
-Responsable de la dirección tecnológica y estratégica de **BWPentesting**, construyendo soluciones de ciberseguridad enterprise desde Honduras para el mercado internacional.
+Liderazgo total de **BWPentesting** — desde la arquitectura técnica hasta la ejecución de proyectos enterprise de ciberseguridad para clientes en la región y mercado internacional.
 
 ```
-RESPONSABILIDADES PRINCIPALES:
-├── Diseño de arquitectura de ciberseguridad empresarial
-├── Desarrollo de plataforma EDR/XDR (en progreso)
-├── Pentesting y evaluación de vulnerabilidades
-├── Consultoría en infraestructura cloud y seguridad
-├── Diseño de dashboards de monitoreo empresarial
-├── Desarrollo de herramientas ofensivas y defensivas
-└── Diseño de arquitecturas Zero Trust
+RESPONSABILIDADES CLAVE:
+├── 🔐 Arquitectura de soluciones de ciberseguridad empresarial
+├── 🔥 Desarrollo de plataforma EDR/XDR (principal proyecto activo)
+├── 🎯 Pentesting y evaluación de vulnerabilidades (web/redes/cloud)
+├── ☁️ Consultoría en infraestructura cloud y seguridad (AWS/Azure)
+├── 📊 Diseño de dashboards SOC y monitoreo en tiempo real
+├── ⚔️ Desarrollo de herramientas ofensivas y defensivas custom
+├── 🏗️ Diseño de arquitecturas Zero Trust para clientes enterprise
+└── 🧠 Threat Intelligence y análisis de vulnerabilidades avanzadas
 ```
 
 </details>
 
 <details open>
-<summary><b>🛡️ Analista de Sistemas — Bay Islands Petroleum (BIP)</b></summary>
-
+<summary><b>🛡️ &nbsp; Analista de Sistemas — Bay Islands Petroleum (BIP)</b></summary>
 <br/>
 
-Gestión, análisis y seguridad de infraestructura empresarial crítica integrando soluciones cloud, virtualización y seguridad avanzada.
+Gestión y seguridad de infraestructura crítica empresarial, integrando soluciones cloud, virtualización y seguridad avanzada en uno de los entornos más exigentes de la región.
 
 ```
 ACTIVIDADES PRINCIPALES:
-├── Monitoreo de infraestructura híbrida (Azure + VMware)
-├── Integración con Microsoft Defender, Sentinel e IAM
-├── Análisis de seguridad en sistemas críticos
-├── Automatización de procesos y monitoreo
-├── Evaluación de riesgos tecnológicos
-└── Soporte técnico avanzado a nivel enterprise
+├── ☁️ Administración de infraestructura híbrida Azure + VMware
+├── 🔒 Integración con Microsoft Defender, Sentinel e IAM
+├── 📡 Monitoreo y análisis de seguridad en sistemas críticos
+├── ⚙️ Automatización de procesos operativos y de seguridad
+├── 📋 Evaluación y gestión de riesgos tecnológicos
+└── 🖥️ Soporte técnico avanzado a nivel enterprise
 ```
 
 </details>
 
 <details open>
-<summary><b>🧪 Desarrollador Senior & Especialista en Ciberseguridad — Freelance</b></summary>
-
+<summary><b>🧪 &nbsp; Desarrollador Senior & Especialista en Ciberseguridad — Freelance</b></summary>
 <br/>
 
 ```
-ACTIVIDADES:
-├── Desarrollo de software empresarial seguro
-├── APIs REST seguras (JWT, OAuth2, MFA)
-├── Automatización con Python y Bash
-├── Auditoría de seguridad en aplicaciones
-├── Protección de servidores y redes
-└── Consultoría en infraestructura cloud
+PROYECTOS Y ACTIVIDADES:
+├── 💻 Desarrollo de software empresarial seguro (full-stack)
+├── 🔑 APIs REST seguras con JWT, OAuth2, MFA, RBAC
+├── 🐍 Automatización con Python y Bash para clientes enterprise
+├── 🔍 Auditoría de seguridad en aplicaciones web y móviles
+├── 🛡️ Hardening y protección de servidores y redes corporativas
+├── ☁️ Consultoría e implementación de infraestructura cloud
+└── 📱 Desarrollo de apps móviles con Flutter
 ```
 
 </details>
 
 ---
 
-## 📌 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
-|:---|:---|:---:|
-| 🔥 **BWP Enterprise EDR/XDR** | Plataforma endpoint de detección, respuesta, telemetría y análisis de comportamiento | `C#` `Python` `React` `Azure` |
-| 🎯 **BWP Arena** | Plataforma de entrenamiento en ciberseguridad con labs APT y simulaciones ofensivas | `Next.js` `Node.js` `Docker` |
-| 📊 **Enterprise SOC Dashboard** | Panel de monitoreo en tiempo real para infraestructura empresarial | `React` `TypeScript` `ELK` |
-| 🐍 **Security Automation Toolkit** | Herramientas Python para escaneo, CVEs, auditoría y generación de reportes | `Python` `Bash` `APIs` |
-| ☁️ **Hybrid Cloud Architecture** | Arquitectura segura AWS + Azure + Linux con Zero Trust integrado | `Azure` `AWS` `Terraform` |
-
----
-
-## 🎓 Educación & Certificaciones
-
-```
-FORMACIÓN ACADÉMICA:
-├── 🎓 Ingeniería en Computación — Universidad Tecnológica de Honduras (UTH)
-└── 🎓 Diplomado en Ciberseguridad — UNITEC (En Curso)
-
-CERTIFICACIONES & FORMACIÓN AVANZADA:
-├── ✅ Ciberseguridad & Pentesting Avanzado
-├── ✅ Infraestructura Segura & Cloud Security
-├── ✅ Análisis de Malware & Ingeniería Inversa
-├── ✅ Redes & Tecnologías Cloud (AWS / Azure)
-└── ✅ Desarrollo Seguro de Software
-```
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bryan-max95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&ring_color=00E5FF" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-max95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff" />
+## `[ PROYECTOS DESTACADOS ]`
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-max95&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=666666" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bryan-max95&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4" />
-
-</div>
-
----
-
-## 🎯 Filosofía Profesional
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   "No solo desarrollo software.                               ║
-║    Diseño sistemas seguros, escalables y preparados           ║
-║    para proteger empresas reales.                             ║
-║                                                               ║
-║    Mi misión: construir tecnología de ciberseguridad          ║
-║    de alto nivel desde Honduras para el mundo."               ║
-║                                                               ║
-║                        — Bryan Josué Cárcamo Matute           ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📫 Contacto & Redes
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_WEBSITE-bwpentesting.com-00E5FF?style=for-the-badge&labelColor=0d1117&color=0d1117)](https://bwpentesting.com)
-[![Email](https://img.shields.io/badge/📧_EMAIL-info@bwpentesting.com-00E5FF?style=for-the-badge&labelColor=0d1117&color=0d1117)](mailto:info@bwpentesting.com)
-[![Phone](https://img.shields.io/badge/📱_PHONE-+504_88285822-00E5FF?style=for-the-badge&labelColor=0d1117&color=0d1117)](tel:+50488285822)
-[![Location](https://img.shields.io/badge/📍_LOCATION-Roatán,_Bay_Islands,_Honduras-00E5FF?style=for-the-badge&labelColor=0d1117&color=0d1117)](https://maps.google.com)
+| Proyecto | Descripción | Stack | Estado |
+|:---|:---|:---:|:---:|
+| 🔥 **BWP Enterprise EDR/XDR** | Plataforma endpoint: detección, respuesta, telemetría y análisis de comportamiento | `C#` `Python` `React` `Azure` | 🔄 En desarrollo |
+| 🎯 **BWP Arena** | Plataforma de entrenamiento con labs APT, CTFs y simulaciones ofensivas enterprise | `Next.js` `Node.js` `Docker` | 🔄 En desarrollo |
+| 📊 **BWP SOC Dashboard** | Panel de monitoreo enterprise en tiempo real con threat visualization | `React` `TS` `ELK` `Node` | ✅ Activo |
+| 🐍 **Security Automation Toolkit** | Herramientas Python para escaneo, CVEs, auditoría y reportes automáticos | `Python` `Bash` `APIs` | ✅ Activo |
+| ☁️ **Hybrid Cloud Security** | Arquitectura segura AWS + Azure + Linux on-premise con Zero Trust | `Azure` `AWS` `Terraform` | ✅ Activo |
+| 🔐 **Secure API Framework** | Framework para construir APIs enterprise con seguridad by-design | `Node.js` `TS` `C#` `.NET` | ✅ Activo |
 
 </div>
 
@@ -527,22 +626,139 @@ CERTIFICACIONES & FORMACIÓN AVANZADA:
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Bryan-max95&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
+## `[ EDUCACIÓN & CERTIFICACIONES ]`
 
 </div>
-
-<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
+║  FORMACIÓN ACADÉMICA                                              ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🎓  Ingeniería en Computación                                    ║
+║      Universidad Tecnológica de Honduras (UTH)                    ║
 ║                                                                   ║
-║   🚀  BWPentesting — Cybersecurity · Software · Innovation        ║
-║   🛡️  Protecting Enterprises. Building the Future of Security.    ║
-║   🌎  From Honduras to the World.                                 ║
-║                                                                   ║
+║  🎓  Diplomado en Ciberseguridad                                  ║
+║      UNITEC — [EN CURSO]                                          ║
+╠══════════════════════════════════════════════════════════════════╣
+║  CERTIFICACIONES & FORMACIÓN ESPECIALIZADA                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ✅  Ciberseguridad & Pentesting Avanzado                         ║
+║  ✅  Cloud Security — AWS & Azure                                 ║
+║  ✅  Análisis de Malware & Ingeniería Inversa                     ║
+║  ✅  Infrastructure Security & Hardening                          ║
+║  ✅  Desarrollo Seguro de Software                                ║
+║  ✅  Redes Avanzadas & Protocolos de Seguridad                    ║
 ╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+## `[ GITHUB ANALYTICS ]`
+
+</div>
+
+<div align="center">
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Bryan-max95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=00E5FF&icon_color=00E5FF&text_color=7ecfff&ring_color=00E5FF&border_color=00E5FF22"/>
+&nbsp;
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-max95&layout=compact&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=00E5FF&text_color=7ecfff&border_color=00E5FF22"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-max95&theme=tokyonight&hide_border=true&background=060d1a&stroke=00E5FF33&ring=00E5FF&fire=FF6B35&currStreakNum=ffffff&sideNums=7ecfff&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=4a6a8a"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Bryan-max95&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6&no-bg=true"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bryan-max95&bg_color=060d1a&color=00E5FF&line=00E5FF&point=ffffff&area=true&area_color=00E5FF22&hide_border=true&title_color=00E5FF" width="95%"/>
+</div>
+
+---
+
+<div align="center">
+
+## `[ FILOSOFÍA PROFESIONAL ]`
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   "No solo desarrollo software.                                          ║
+║    Diseño sistemas seguros, escalables y preparados                      ║
+║    para proteger empresas reales.                                        ║
+║                                                                          ║
+║    Creo en la seguridad desde el diseño:                                 ║
+║    cada línea de código, cada arquitectura, cada decisión                ║
+║    debe estar construida pensando en protección primero.                 ║
+║                                                                          ║
+║    Mi misión es construir tecnología de ciberseguridad                   ║
+║    de nivel CrowdStrike / Microsoft Defender                             ║
+║    desde Honduras — para el mercado internacional."                      ║
+║                                                                          ║
+║                            — Bryan Josué Cárcamo Matute                  ║
+║                              Founder, BWPentesting                       ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:00E5FF&height=120&section=footer&animation=fadeIn" width="100%"/>
+---
+
+<div align="center">
+
+## `[ CONTACTO & REDES ]`
+
+</div>
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-bwpentesting.com-060d1a?style=for-the-badge&labelColor=00E5FF&color=060d1a)](https://bwpentesting.com)&nbsp;
+[![Email](https://img.shields.io/badge/📧_EMAIL-info@bwpentesting.com-060d1a?style=for-the-badge&labelColor=0a1e36&color=060d1a)](mailto:info@bwpentesting.com)
+
+[![Phone](https://img.shields.io/badge/📱_PHONE-+504_88285822-060d1a?style=for-the-badge&labelColor=0a1e36&color=060d1a)](tel:+50488285822)&nbsp;
+[![Location](https://img.shields.io/badge/📍_LOCATION-Roatán,_Bay_Islands,_HN-060d1a?style=for-the-badge&labelColor=0a1e36&color=060d1a)](https://maps.google.com)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Bryan-max95&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ⚡  BWPentesting                                                           ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
+║   🛡️  Cybersecurity · Secure Software · Enterprise Protection · Innovation  ║
+║   🔥  Building Next-Gen EDR/XDR · Red Team · Blue Team · Zero Trust         ║
+║   🌎  From Roatán, Honduras — To The World                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0078D4,100:000d1a&height=130&section=footer&animation=fadeIn" width="100%"/>
